@@ -1,4 +1,4 @@
 # js12
 xiexinfang
-index.js为第1题
-index2.js为第2题
+index.js鏄1灏忛
+index2.js鏄2灏忛
